@@ -1,0 +1,6 @@
+{
+  "name": "Ujian Kecakapan Kerja Dasar TJKT",
+  "description": "Aplikasi asesmen dan ujian kecakapan kerja dasar teknik jaringan komputer dan telekomunikasi dengan 50 butir soal interaktif, pengawasan tab, dan rekap nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
